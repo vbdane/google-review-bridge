@@ -9,10 +9,10 @@ This project uses Material UI's [Rating Component](https://mui.com/components/ra
 
 ## Screenshots
 Screen which will appear on the home page
-![Mobile Screen Rating Bar](docs\images\mobile-rating.PNG)
+![Mobile Screen Rating Bar](https://raw.githubusercontent.com/vbdane/google-review-bridge/master/docs/images/mobile-rating.PNG)
 
 Screen which will appear if user rates less than or equal to three stars
-![Mobile Screen Feedback Box](docs\images\mobile-feedback.PNG)
+![Mobile Screen Feedback Box](https://github.com/vbdane/google-review-bridge/blob/master/docs/images/mobile-feedback.PNG)
 
 Screen which will appear after submission of feedback
-![Mobile Success Screen](docs\images\mobile-success.PNG)
+![Mobile Success Screen](https://github.com/vbdane/google-review-bridge/blob/master/docs/images/mobile-success.PNG)
