@@ -8,11 +8,11 @@ This application will ask for text feedback from reviewees who rate the service 
 This project uses Material UI's [Rating Component](https://mui.com/components/rating/) to accept 'Star' rating and saves it to [Firebase Realtime Database](https://firebase.google.com/docs/database).
 
 ## Screenshots
-Screen which will appear on the home page
+Screen which will appear on the home page  
 ![Mobile Screen Rating Bar](https://raw.githubusercontent.com/vbdane/google-review-bridge/master/docs/images/mobile-rating.PNG)
 
-Screen which will appear if user rates less than or equal to three stars
+Screen which will appear if user rates less than or equal to three stars  
 ![Mobile Screen Feedback Box](https://github.com/vbdane/google-review-bridge/blob/master/docs/images/mobile-feedback.PNG)
 
-Screen which will appear after submission of feedback
+Screen which will appear after submission of feedback  
 ![Mobile Success Screen](https://github.com/vbdane/google-review-bridge/blob/master/docs/images/mobile-success.PNG)
