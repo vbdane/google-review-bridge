@@ -1,0 +1,19 @@
+.app__success{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px ;
+}
+.app__success-label{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    line-height: 28px;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}

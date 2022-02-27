@@ -1,0 +1,20 @@
+.app__feedbackarea{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.app__feedbackarea-label{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    line-height: 28px;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
